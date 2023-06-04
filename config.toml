@@ -1,4 +1,3 @@
-baseURL = "https://jammy4t.github.io/myspace/"
-languageCode = "en-us"
-title = "سيد حسين النمر"
-theme = "diary"
+languageCode = 'en-us'
+title = 'ربي اشرح لي صدري ويسر لي أمري'
+theme = 'PaperMod'
