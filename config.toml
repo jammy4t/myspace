@@ -1,6 +1,6 @@
 baseURL = "https://jammy4t.github.io/myspace/"
 languageCode = "en-us"
-title = "Lawyer Hugo Grotius"
+title = "سيد حسين النمر"
 theme = "notrack"
 newContentEditor = "nvim"
 mainSections = ["blog"]
@@ -8,8 +8,8 @@ mainSections = ["blog"]
 paginate = 4
 
 [params]
-  author = "Hugo de Groot"
-  siteHeading = "Hugo Grotius" # defaults to author
+  author = "سيد حسين النمر"
+  siteHeading = "سيد حسين النمر" # defaults to author
   favicon = "hugo_grotius.png" # Adds a small icon next to the page title in a tab
   showBlogLatest = true
   mainSections = ["blog"]
