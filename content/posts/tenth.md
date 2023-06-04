@@ -9,6 +9,7 @@ cover:
 #    hidden: false
 summary: "This post provides an overview of Hugo (PaperMod theme) and details the steps I took in setting up this website."
 tags: ["Hugo", "PaperMod"]
+categories: ["تكنولوجيا", "أعمال"]
 ---
 **bold**
 

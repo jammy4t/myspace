@@ -1,28 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Lawyer Hugo Grotius</title>
-        <link>https://jammy4t.github.io/myspace/posts/</link>
-        <description>Latest blog posts from Lawyer Hugo Grotius</description>
-
-        
-        <language>en-us</language>
-        
-
-        
-
-        
-
-        
-
-        
-        <lastBuildDate>Sun, 04 Jun 2023 01:21:13 +0300</lastBuildDate>
-        
-
-        
-        <atom:link href="https://jammy4t.github.io/myspace/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-
-        
-    </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on ExampleSite</title>
+    <link>https://jammy4t.github.io/myspace/posts/</link>
+    <description>Recent content in Posts on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://jammy4t.github.io/myspace/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jammy4t.github.io/myspace/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Jun 2023 15:43:11 +0300</lastBuildDate><atom:link href="https://jammy4t.github.io/myspace/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tenth</title>
+      <link>https://jammy4t.github.io/myspace/posts/tenth/</link>
+      <pubDate>Sun, 04 Jun 2023 15:43:11 +0300</pubDate>
+      
+      <guid>https://jammy4t.github.io/myspace/posts/tenth/</guid>
+      <description>This post provides an overview of Hugo (PaperMod theme) and details the steps I took in setting up this website.</description>
+    </item>
+    
+    <item>
+      <title>ENGLISH</title>
+      <link>https://jammy4t.github.io/myspace/posts/my-first-post/</link>
+      <pubDate>Sun, 04 Jun 2023 01:21:13 +0300</pubDate>
+      
+      <guid>https://jammy4t.github.io/myspace/posts/my-first-post/</guid>
+      <description>هنا يبدأ السطر الأول في المقال الطويل الذي يتحدث عن اللاشيء. وهنا السطر الثاني بدون النقطة والسطر الثالث، بالفاصلة ثم النقطة.</description>
+    </item>
+    
+    <item>
+      <title>مقال حيدر</title>
+      <link>https://jammy4t.github.io/myspace/posts/my20thpost/</link>
+      <pubDate>Sun, 04 Jun 2023 01:21:13 +0300</pubDate>
+      
+      <guid>https://jammy4t.github.io/myspace/posts/my20thpost/</guid>
+      <description>السلام عليكم هذا مقالي وهو مقال قصير الخ الخ</description>
+    </item>
+    
+  </channel>
 </rss>

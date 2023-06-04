@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jammy4t.github.io/myspace/sitemap.xml

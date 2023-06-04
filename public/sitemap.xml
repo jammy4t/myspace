@@ -2,21 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jammy4t.github.io/myspace/categories/</loc>
+    <lastmod>2023-06-04T15:43:11+03:00</lastmod>
+  </url><url>
     <loc>https://jammy4t.github.io/myspace/</loc>
-    <lastmod>2023-06-04T01:21:13+03:00</lastmod>
+    <lastmod>2023-06-04T15:43:11+03:00</lastmod>
+  </url><url>
+    <loc>https://jammy4t.github.io/myspace/tags/hugo/</loc>
+    <lastmod>2023-06-04T15:43:11+03:00</lastmod>
+  </url><url>
+    <loc>https://jammy4t.github.io/myspace/tags/papermod/</loc>
+    <lastmod>2023-06-04T15:43:11+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/myspace/posts/</loc>
-    <lastmod>2023-06-04T01:21:13+03:00</lastmod>
+    <lastmod>2023-06-04T15:43:11+03:00</lastmod>
+  </url><url>
+    <loc>https://jammy4t.github.io/myspace/tags/</loc>
+    <lastmod>2023-06-04T15:43:11+03:00</lastmod>
+  </url><url>
+    <loc>https://jammy4t.github.io/myspace/posts/tenth/</loc>
+    <lastmod>2023-06-04T15:43:11+03:00</lastmod>
+  </url><url>
+    <loc>https://jammy4t.github.io/myspace/categories/%D8%A3%D8%B9%D9%85%D8%A7%D9%84/</loc>
+    <lastmod>2023-06-04T15:43:11+03:00</lastmod>
+  </url><url>
+    <loc>https://jammy4t.github.io/myspace/categories/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7/</loc>
+    <lastmod>2023-06-04T15:43:11+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/myspace/posts/my-first-post/</loc>
     <lastmod>2023-06-04T01:21:13+03:00</lastmod>
   </url><url>
-    <loc>https://jammy4t.github.io/myspace/categories/</loc>
+    <loc>https://jammy4t.github.io/myspace/posts/my20thpost/</loc>
+    <lastmod>2023-06-04T01:21:13+03:00</lastmod>
   </url><url>
-    <loc>https://jammy4t.github.io/myspace/month/</loc>
-  </url><url>
-    <loc>https://jammy4t.github.io/myspace/tags/</loc>
-  </url><url>
-    <loc>https://jammy4t.github.io/myspace/year/</loc>
+    <loc>https://jammy4t.github.io/myspace/archives/</loc>
   </url>
 </urlset>
