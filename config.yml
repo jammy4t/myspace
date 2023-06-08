@@ -1,7 +1,7 @@
 
 baseURL: "https://jammy4t.github.io/myspace/"
 title: ExampleSite
-paginate: 5
+paginate: 20
 theme: PaperMod
 enableRobotsTXT: true
 buildDrafts: false
@@ -50,6 +50,8 @@ params:
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
+#سطر اضفته لجعل مجلد الستاتيك هو مجلد الأستس
+  #assetDir: static
 
   label:
     text: "شبكة تبارك الإسلامية"
