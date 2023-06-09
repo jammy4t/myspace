@@ -1,6 +1,6 @@
 
 baseURL: "https://jammy4t.github.io/myspace/"
-title: ExampleSite
+title: شبكة أخلاقنا الإسلامية
 paginate: 20
 theme: PaperMod
 enableRobotsTXT: true
@@ -124,14 +124,10 @@ menu:
       name: الأخلاق القاتلة
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
     - identifier: archives
       name: الإرشيف
       url: /archives/
-      weight: 40  
+      weight: 30  
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

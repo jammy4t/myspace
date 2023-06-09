@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jammy4t.github.io/myspace/</loc>
-    <lastmod>2023-06-05T15:43:11+03:00</lastmod>
-  </url><url>
     <loc>https://jammy4t.github.io/myspace/categories/%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84/</loc>
     <lastmod>2023-06-05T15:43:11+03:00</lastmod>
   </url><url>
@@ -15,6 +12,9 @@
     <lastmod>2023-06-05T15:43:11+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/myspace/posts/start/</loc>
+    <lastmod>2023-06-05T15:43:11+03:00</lastmod>
+  </url><url>
+    <loc>https://jammy4t.github.io/myspace/</loc>
     <lastmod>2023-06-05T15:43:11+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/myspace/categories/</loc>
