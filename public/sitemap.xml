@@ -2,10 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jammy4t.github.io/myspace/categories/%D8%A3%D9%87%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84/</loc>
-    <lastmod>2023-06-05T15:43:11+03:00</lastmod>
-  </url><url>
-    <loc>https://jammy4t.github.io/myspace/tags/%D8%A7%D9%84%D9%83%D8%B3%D9%84/</loc>
+    <loc>https://jammy4t.github.io/myspace/tags/%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%AC%D8%A7%D8%B1%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%82%D8%B3%D9%85/</loc>
     <lastmod>2023-06-05T15:43:11+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/myspace/posts/</loc>
@@ -15,9 +12,6 @@
     <lastmod>2023-06-05T15:43:11+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/myspace/</loc>
-    <lastmod>2023-06-05T15:43:11+03:00</lastmod>
-  </url><url>
-    <loc>https://jammy4t.github.io/myspace/categories/</loc>
     <lastmod>2023-06-05T15:43:11+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/myspace/tags/</loc>
@@ -1545,6 +1539,9 @@
     <lastmod>2023-06-04T01:21:13+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/myspace/categories/%D9%85%D8%AC%D8%A7%D9%84%D8%B3%D8%A9-%D8%A3%D9%87%D9%84-%D8%A7%D9%84%D8%AF%D9%8A%D9%86/</loc>
+    <lastmod>2023-06-04T01:21:13+03:00</lastmod>
+  </url><url>
+    <loc>https://jammy4t.github.io/myspace/categories/</loc>
     <lastmod>2023-06-04T01:21:13+03:00</lastmod>
   </url><url>
     <loc>https://jammy4t.github.io/myspace/archives/</loc>

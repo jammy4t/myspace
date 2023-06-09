@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: شبكة أخلاقنا الإسلامية
+  description: "موقع يهتم بنشر الثقافة الأخلاقية الإسلامية تحت منبر أهل البيت عليهم السلام"
   keywords: [Blog, Portfolio, PaperMod]
   author: إدارة الموقع
   # author: ["Me", "You"] # multiple authors
