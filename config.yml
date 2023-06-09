@@ -54,7 +54,7 @@ params:
   #assetDir: static
 
   label:
-    text: "شبكة تبارك الإسلامية"
+    text: "شبكة أخلاقنا الإسلامية"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
