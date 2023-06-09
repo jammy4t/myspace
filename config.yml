@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 defaultContentLanguage: ar
-#googleAnalytics: UA-123-45
+googleAnalytics: G-HZV7HK1HQH
 
 minify:
   disableXML: true
