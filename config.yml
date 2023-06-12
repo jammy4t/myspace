@@ -9,6 +9,11 @@ buildFuture: false
 buildExpired: false
 defaultContentLanguage: ar
 googleAnalytics: G-HZV7HK1HQH
+taxonomies:
+  category: categories
+  tag: tags
+  book: books
+
 
 minify:
   disableXML: true
@@ -96,8 +101,8 @@ params:
 
   cover:
     hidden: false # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: True # hide on single page
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
 #  editPost:
 #    URL: "https://github.com/<path_to_repo>/content"
@@ -124,10 +129,14 @@ menu:
       name: الأخلاق القاتلة
       url: /tags/
       weight: 20
+    - identifier: books
+      name: كتب أخلاقية هامة
+      url: /books/
+      weight: 30    
     - identifier: archives
       name: الإرشيف
       url: /archives/
-      weight: 30  
+      weight: 40  
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
