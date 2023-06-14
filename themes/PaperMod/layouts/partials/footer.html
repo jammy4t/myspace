@@ -120,6 +120,7 @@
 
         if (container.classList.contains("highlight")) {
             container.appendChild(copybutton);
+            
         } else if (container.parentNode.firstChild == container) {
             // td containing LineNos
         } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
@@ -132,3 +133,4 @@
     });
 </script>
 {{- end }}
+
