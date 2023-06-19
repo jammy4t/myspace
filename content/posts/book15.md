@@ -7,12 +7,12 @@ cover:
     image: img/15book.png
     alt: 'صورة'
     caption: ''
-#    hidden: false
+    hidden: false
 summary: 
 tags: []
 categories: []
 books: ["فقه الأخلاق - مجلدين - السيد محمد الصدر"]
 ---
-[تحميل الكتاب](./../../books/15a.pdf)
+[تحميل المجلد الأول](./../../books/15a.pdf)
 
-[تحميل الكتاب](./../../books/15b.pdf)
+[تحميل المجلد الثاني](./../../books/15b.pdf)

@@ -7,14 +7,14 @@ cover:
     image: img/14book.png
     alt: 'صورة'
     caption: ''
-#    hidden: false
+    hidden: false
 summary: 
 tags: []
 categories: []
 books: ["الأخلاق في القرآن الكريم - ٣ مجلدات - الشيخ محمد تقي مصباح اليزدي"]
 ---
-[تحميل الكتاب](./../../books/14a.pdf)
+[تحميل المجلد الأول](./../../books/14a.pdf)
 
-[تحميل الكتاب](./../../books/14b.pdf)
+[تحميل المجلد الثاني](./../../books/14b.pdf)
 
-[تحميل الكتاب](./../../books/14c.pdf)
+[تحميل المجلد الثالث](./../../books/14c.pdf)

@@ -7,7 +7,7 @@ cover:
     image: img/8book.png
     alt: 'صورة'
     caption: ''
-#    hidden: false
+    hidden: false
 summary: 
 tags: []
 categories: []

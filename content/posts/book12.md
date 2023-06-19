@@ -7,7 +7,7 @@ cover:
     image: img/12book.png
     alt: 'صورة'
     caption: ''
-#    hidden: false
+    hidden: false
 summary: 
 tags: []
 categories: []

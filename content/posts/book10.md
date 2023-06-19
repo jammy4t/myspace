@@ -7,16 +7,16 @@ cover:
     image: img/10book.png
     alt: 'صورة'
     caption: ''
-#    hidden: false
+    hidden: false
 summary: 
 tags: []
 categories: []
 books: ["الخلق الكامل أربع مجلدات - محمد أحمد جاد المولى"]
 ---
-[تحميل الكتاب](./../../books/10a.pdf)
+[تحميل المجلد الأول](./../../books/10a.pdf)
 
-[تحميل الكتاب](./../../books/10b.pdf)
+[تحميل المجلد الثاني](./../../books/10b.pdf)
 
-[تحميل الكتاب](./../../books/10c.pdf)
+[تحميل المجلد الثالث](./../../books/10c.pdf)
 
-[تحميل الكتاب](./../../books/10d.pdf)
+[تحميل المجلد الرابع](./../../books/10d.pdf)
