@@ -16,6 +16,13 @@ taxonomies:
   tag: tags
   book: books
 
+# i just added the following to search
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
 
 minify:
   disableXML: true
@@ -122,7 +129,8 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    #keys: ["title", "permalink", "summary", "content"]
+    keys: ["title"]
 menu:
   main:
     - identifier: categories
@@ -144,7 +152,11 @@ menu:
     - identifier: contact-us
       name: اتصل بنا
       url: /contact-us/
-      weight: 50  
+      weight: 50 
+    - identifier: search
+      name: البحث
+      url: /search/
+      weight: 60   
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

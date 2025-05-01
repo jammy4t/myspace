@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>النفاق on شبكة أخلاقنا الإسلامية</title>
-    <link>https://jammy4t.github.io/myspace/tags/%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82/</link>
+    <link>http://localhost:1313/myspace/tags/%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82/</link>
     <description>Recent content in النفاق on شبكة أخلاقنا الإسلامية</description>
     <image>
       <title>شبكة أخلاقنا الإسلامية</title>
-      <url>https://jammy4t.github.io/myspace/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://jammy4t.github.io/myspace/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/myspace/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/myspace/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>ar</language>
     <lastBuildDate>Thu, 04 May 2023 01:21:13 +0300</lastBuildDate>
-    <atom:link href="https://jammy4t.github.io/myspace/tags/%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/myspace/tags/%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>عقاب من كان ذا وجهين وذا لسانين</title>
-      <link>https://jammy4t.github.io/myspace/posts/572/</link>
+      <link>http://localhost:1313/myspace/posts/572/</link>
       <pubDate>Thu, 04 May 2023 01:21:13 +0300</pubDate>
-      <guid>https://jammy4t.github.io/myspace/posts/572/</guid>
+      <guid>http://localhost:1313/myspace/posts/572/</guid>
       <description>&lt;p&gt;عن أبي
 عبد الله عليه‌السلام قال : من لقى المسلمين بوجهين ولسانين جاء يوم القيامة وله
 لسان من نار.&lt;/p&gt;
