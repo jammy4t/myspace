@@ -13,18 +13,18 @@ tags: []
 categories: []
 books: ["المحجة البيضاء - ٨ مجلدات - الفيض الكاشاني"]
 ---
-[تحميل المجلد الأول](./../../books/16a.pdf)
+[تحميل المجلد الأول](https://files.akhlagona.com/bigfiles/16a.pdf)
 
-[تحميل المجلد الثاني](./../../books/16b.pdf)
+[تحميل المجلد الثاني](https://files.akhlagona.com/bigfiles/16b.pdf)
 
-[تحميل المجلد الثالث](./../../books/16c.pdf)
+[تحميل المجلد الثالث](https://files.akhlagona.com/bigfiles/16c.pdf)
 
-[تحميل المجلد الرابع](./../../books/16d.pdf)
+[تحميل المجلد الرابع](https://files.akhlagona.com/bigfiles/16d.pdf)
 
-[تحميل المجلد الخامس](./../../books/16e.pdf)
+[تحميل المجلد الخامس](https://files.akhlagona.com/bigfiles/16e.pdf)
 
-[تحميل المجلد السادس](./../../books/16f.pdf)
+[تحميل المجلد السادس](https://files.akhlagona.com/bigfiles/16f.pdf)
 
-[تحميل المجلد السابع](./../../books/16g.pdf)
+[تحميل المجلد السابع](https://files.akhlagona.com/bigfiles/16g.pdf)
 
-[تحميل المجلد الثامن](./../../books/16h.pdf)
+[تحميل المجلد الثامن](https://files.akhlagona.com/bigfiles/16h.pdf)

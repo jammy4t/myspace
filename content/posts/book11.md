@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["دستور الأخلاق - محمد عبدالله دراز"]
 ---
-[تحميل الكتاب](./../../books/11.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/11.pdf)

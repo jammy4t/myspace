@@ -13,8 +13,8 @@ tags: []
 categories: []
 books: ["الأخلاق في القرآن الكريم - ٣ مجلدات - الشيخ محمد تقي مصباح اليزدي"]
 ---
-[تحميل المجلد الأول](./../../books/14a.pdf)
+[تحميل المجلد الأول](https://files.akhlagona.com/bigfiles/14a.pdf)
 
-[تحميل المجلد الثاني](./../../books/14b.pdf)
+[تحميل المجلد الثاني](https://files.akhlagona.com/bigfiles/14b.pdf)
 
-[تحميل المجلد الثالث](./../../books/14c.pdf)
+[تحميل المجلد الثالث](https://files.akhlagona.com/bigfiles/14c.pdf)

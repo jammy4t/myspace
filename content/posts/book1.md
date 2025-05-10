@@ -13,6 +13,6 @@ tags: []
 categories: []
 books: ["جامع السعادات - مجلدين - الشيخ النراقي"]
 ---
-[تحميل المجلد الأول](./../../books/1.pdf)
 
-[تحميل المجلد الثاني](./../../books/2.pdf)
+[تحميل المجلد الأول](https://files.akhlagona.com/bigfiles/1.pdf)
+[تحميل المجلد الثاني](https://files.akhlagona.com/bigfiles/2.pdf)

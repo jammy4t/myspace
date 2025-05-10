@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["الأخلاق في القرآن-السيد عبدالأعلى السبزواري"]
 ---
-[تحميل الكتاب](./../../books/4.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/4.pdf)

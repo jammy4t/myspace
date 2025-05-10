@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["أخلاق أهل البيت - محمد مهدي الصدر"]
 ---
-[تحميل الكتاب](./../../books/12.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/12.pdf)

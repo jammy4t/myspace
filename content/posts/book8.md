@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["ذكر الله-الشيخ محمد تقي مصباح اليزدي"]
 ---
-[تحميل الكتاب](./../../books/8.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/8.pdf)

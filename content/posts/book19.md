@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["خير الوصية - الشيخ محمد آل رمضان الخزاعي الأحسائي"]
 ---
-[تحميل الكتاب](./../../books/19.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/19.pdf)

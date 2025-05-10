@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["الحياة في ظل الأخلاق-الشيخ ناصر مكارم الشيرازي"]
 ---
-[تحميل الكتاب](./../../books/7.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/7.pdf)

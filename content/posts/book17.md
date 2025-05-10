@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["الأخلاق - السيد عبدالله شبر"]
 ---
-[تحميل الكتاب](./../../books/17.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/17.pdf)

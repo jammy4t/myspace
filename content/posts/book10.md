@@ -13,10 +13,10 @@ tags: []
 categories: []
 books: ["الخلق الكامل أربع مجلدات - محمد أحمد جاد المولى"]
 ---
-[تحميل المجلد الأول](./../../books/10a.pdf)
+[تحميل المجلد الأول](https://files.akhlagona.com/bigfiles/10a.pdf)
 
-[تحميل المجلد الثاني](./../../books/10b.pdf)
+[تحميل المجلد الثاني](https://files.akhlagona.com/bigfiles/10b.pdf)
 
-[تحميل المجلد الثالث](./../../books/10c.pdf)
+[تحميل المجلد الثالث](https://files.akhlagona.com/bigfiles/10c.pdf)
 
-[تحميل المجلد الرابع](./../../books/10d.pdf)
+[تحميل المجلد الرابع](https://files.akhlagona.com/bigfiles/10d.pdf)

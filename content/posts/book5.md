@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["أخلاق الإمام علي عليه السلام-السيد محمد صادق الخرسان"]
 ---
-[تحميل الكتاب](./../../books/5.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/5.pdf)

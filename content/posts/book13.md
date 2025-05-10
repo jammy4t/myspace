@@ -13,8 +13,8 @@ tags: []
 categories: []
 books: ["الأخلاق في القرآن - ٣ مجلدات - الشيخ ناصر مكارم الشيرازي"]
 ---
-[تحميل المجلد الأول](./../../books/13a.pdf)
+[تحميل المجلد الأول](https://files.akhlagona.com/bigfiles/13a.pdf)
 
-[تحميل المجلد الثاني](./../../books/13b.pdf)
+[تحميل المجلد الثاني](https://files.akhlagona.com/bigfiles/13b.pdf)
 
-[تحميل المجلد الثالث](./../../books/13c.pdf)
+[تحميل المجلد الثالث](https://files.akhlagona.com/bigfiles/13c.pdf)

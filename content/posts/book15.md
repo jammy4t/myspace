@@ -13,6 +13,6 @@ tags: []
 categories: []
 books: ["فقه الأخلاق - مجلدين - السيد محمد الصدر"]
 ---
-[تحميل المجلد الأول](./../../books/15a.pdf)
+[تحميل المجلد الأول](https://files.akhlagona.com/bigfiles/15a.pdf)
 
-[تحميل المجلد الثاني](./../../books/15b.pdf)
+[تحميل المجلد الثاني](https://files.akhlagona.com/bigfiles/15b.pdf)

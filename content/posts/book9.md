@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["الآداب المعنوية للصلاة- الإمام الخميني"]
 ---
-[تحميل الكتاب](./../../books/9.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/9.pdf)

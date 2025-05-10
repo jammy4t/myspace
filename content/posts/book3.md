@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["سلوك وأخلاق الإسلام-الشهيد مطهري"]
 ---
-[تحميل الكتاب](./../../books/3.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/3.pdf)

@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: ["تهذيب الأخلاق - ابن مسكويه"]
 ---
-[تحميل الكتاب](./../../books/18.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/18.pdf)

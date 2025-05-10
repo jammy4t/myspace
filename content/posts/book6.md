@@ -13,4 +13,4 @@ tags: []
 categories: []
 books: [""]
 ---
-[تحميل الكتاب](./../../books/6.pdf)
+[تحميل الكتاب](https://files.akhlagona.com/bigfiles/6.pdf)
