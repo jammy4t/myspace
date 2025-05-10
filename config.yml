@@ -1,7 +1,7 @@
 
 #baseURL: "https://jammy4t.github.io/myspace/"
-baseURL: "https://akhlagona.pages.dev/"
-#baseURL: "https://akhlagona.com/"
+#baseURL: "https://akhlagona.pages.dev/"
+baseURL: "https://akhlagona.com/"
 
 title: شبكة أخلاقنا الإسلامية
 #paginate: 20
